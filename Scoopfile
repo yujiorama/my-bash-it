@@ -1,0 +1,511 @@
+{
+    "buckets": [
+        {
+            "Name": "extras",
+            "Source": "https://github.com/ScoopInstaller/Extras",
+            "Updated": "2022-11-12T05:30:28+09:00",
+            "Manifests": 1729
+        },
+        {
+            "Name": "java",
+            "Source": "https://github.com/ScoopInstaller/Java",
+            "Updated": "2022-11-11T21:39:38+09:00",
+            "Manifests": 245
+        },
+        {
+            "Name": "main",
+            "Source": "https://github.com/scoopinstaller/scoop-main",
+            "Updated": "2022-11-12T10:18:09+09:00",
+            "Manifests": 1114
+        },
+        {
+            "Name": "my-scoop",
+            "Source": "https://bitbucket.org/yujiorama/my-scoop",
+            "Updated": "2021-02-26T19:23:24+09:00",
+            "Manifests": 14
+        },
+        {
+            "Name": "nonportable",
+            "Source": "https://github.com/TheRandomLabs/scoop-nonportable",
+            "Updated": "2022-11-09T03:10:08+09:00",
+            "Manifests": 80
+        },
+        {
+            "Name": "versions",
+            "Source": "https://github.com/ScoopInstaller/Versions",
+            "Updated": "2022-11-12T05:37:28+09:00",
+            "Manifests": 394
+        }
+    ],
+    "apps": [
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-08-20T10:37:57.9795351+09:00",
+            "Name": "7zip",
+            "Version": "22.01"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2021-08-28T10:28:08.2885128+09:00",
+            "Name": "aria2",
+            "Version": "1.36.0-1"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-11-12T10:44:22.5268718+09:00",
+            "Name": "aws",
+            "Version": "2.8.12"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2019-11-24T22:36:53.8241626+09:00",
+            "Name": "aws-iam-authenticator",
+            "Version": "2019-08-22"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-03-12T17:31:49.8696446+09:00",
+            "Name": "aws-vault",
+            "Version": "6.6.0"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-11-12T10:46:00.831927+09:00",
+            "Name": "azure-cli",
+            "Version": "2.42.0"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-11-06T10:53:07.2374813+09:00",
+            "Name": "cmake",
+            "Version": "3.24.3"
+        },
+        {
+            "Info": "",
+            "Source": "java",
+            "Updated": "2022-10-23T08:42:36.24642+09:00",
+            "Name": "corretto8-jdk",
+            "Version": "8.352.08.1"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2019-11-24T22:38:00.4003924+09:00",
+            "Name": "dark",
+            "Version": "3.11.2"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-08-20T10:41:31.9118033+09:00",
+            "Name": "direnv",
+            "Version": "2.32.1"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-10-29T10:58:39.6069417+09:00",
+            "Name": "docker",
+            "Version": "20.10.21"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2022-11-06T11:01:25.5691467+09:00",
+            "Name": "firefox",
+            "Version": "106.0.5"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-11-12T10:46:02.8858553+09:00",
+            "Name": "fzf",
+            "Version": "0.35.0"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2021-11-23T10:08:13.6115377+09:00",
+            "Name": "gcc",
+            "Version": "11.2.0-9.0.0-r3"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-11-12T10:46:06.543424+09:00",
+            "Name": "gh",
+            "Version": "2.20.0"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-10-23T08:47:21.6698723+09:00",
+            "Name": "git",
+            "Version": "2.38.1.windows.1"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-10-23T08:43:11.8729635+09:00",
+            "Name": "gnupg",
+            "Version": "2.3.8"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-11-06T11:03:09.0934292+09:00",
+            "Name": "go",
+            "Version": "1.19.3"
+        },
+        {
+            "Info": "",
+            "Source": "java",
+            "Updated": "2022-10-29T11:07:50.5734702+09:00",
+            "Name": "graalvm-jdk11",
+            "Version": "22.3.0"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-11-12T10:46:12.4294785+09:00",
+            "Name": "graphviz",
+            "Version": "7.0.1"
+        },
+        {
+            "Info": "",
+            "Source": "my-scoop",
+            "Updated": "2021-02-27T13:28:21.4507245+09:00",
+            "Name": "hackgen",
+            "Version": "2.2.3"
+        },
+        {
+            "Info": "",
+            "Source": "my-scoop",
+            "Updated": "2021-02-27T13:28:59.8350995+09:00",
+            "Name": "haranoaji",
+            "Version": "20210130"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2021-01-02T10:40:20.0232852+09:00",
+            "Name": "innounp",
+            "Version": "0.50"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2022-04-02T13:38:32.3391165+09:00",
+            "Name": "irfanview",
+            "Version": "4.60"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2022-11-06T11:03:23.1561714+09:00",
+            "Name": "jetbrains-toolbox",
+            "Version": "1.26.5.13419"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2019-11-24T22:53:21.6175029+09:00",
+            "Name": "jq",
+            "Version": "1.6"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-10-16T09:44:34.9849156+09:00",
+            "Name": "kotlin",
+            "Version": "1.7.20"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-11-12T10:46:15.349563+09:00",
+            "Name": "kubectl",
+            "Version": "1.25.4"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-08-20T10:58:00.0005217+09:00",
+            "Name": "kustomize",
+            "Version": "4.5.7"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2020-01-05T10:15:26.0503434+09:00",
+            "Name": "launchy",
+            "Version": "2.10.79"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2021-11-27T16:19:02.4963093+09:00",
+            "Name": "lessmsi",
+            "Version": "1.10.0"
+        },
+        {
+            "Info": "",
+            "Source": "java",
+            "Updated": "2021-08-21T09:40:25.5264656+09:00",
+            "Name": "liberica16-full-jdk",
+            "Version": "16.0.2-7"
+        },
+        {
+            "Info": "",
+            "Source": "java",
+            "Updated": "2022-10-23T08:43:59.2266102+09:00",
+            "Name": "liberica17-full-jdk",
+            "Version": "17.0.5-8"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-11-06T11:04:21.9749704+09:00",
+            "Name": "llvm",
+            "Version": "15.0.4"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-11-12T10:46:16.9978047+09:00",
+            "Name": "make",
+            "Version": "4.4"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2022-04-29T15:58:43.7256897+09:00",
+            "Name": "mkcert",
+            "Version": "1.4.4"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2019-11-24T22:57:28.6382555+09:00",
+            "Name": "msys2",
+            "Version": "20190524"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-11-06T11:04:38.1356655+09:00",
+            "Name": "nodejs-lts",
+            "Version": "18.12.1"
+        },
+        {
+            "Info": "",
+            "Source": "java",
+            "Updated": "2021-08-28T10:36:06.036357+09:00",
+            "Name": "openjdk10",
+            "Version": "10.0.2-13"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-08-20T11:00:17.0675325+09:00",
+            "Name": "pack",
+            "Version": "0.27.0"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-08-24T17:47:31.4315815+09:00",
+            "Name": "pandoc",
+            "Version": "2.19.2"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2022-10-29T11:08:24.6497977+09:00",
+            "Name": "plantuml",
+            "Version": "1.2022.12"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2022-11-12T10:46:49.42429+09:00",
+            "Name": "powertoys",
+            "Version": "0.64.1"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2022-10-29T11:08:26.5844621+09:00",
+            "Name": "protobuf",
+            "Version": "21.9"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2022-11-12T10:46:55.1797263+09:00",
+            "Name": "putty",
+            "Version": "0.78"
+        },
+        {
+            "Info": "Held package",
+            "Source": "main",
+            "Updated": "2022-11-12T10:48:26.6569816+09:00",
+            "Name": "pwsh",
+            "Version": "7.2.6"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-10-29T11:09:25.675342+09:00",
+            "Name": "python",
+            "Version": "3.11.0"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-10-23T08:45:00.4363589+09:00",
+            "Name": "rclone",
+            "Version": "1.60.0"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-05-02T10:17:03.2163608+09:00",
+            "Name": "ripgrep",
+            "Version": "13.0.0"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-04-23T16:18:03.0527499+09:00",
+            "Name": "ruby",
+            "Version": "3.1.2-1"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2021-11-12T20:06:29.868312+09:00",
+            "Name": "shellcheck",
+            "Version": "0.8.0"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2022-10-29T11:09:35.1886691+09:00",
+            "Name": "skaffold",
+            "Version": "2.0.1"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-10-16T09:47:13.2111495+09:00",
+            "Name": "starship",
+            "Version": "1.11.0"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2022-01-10T10:21:24.1240508+09:00",
+            "Name": "sublime-text",
+            "Version": "4-4126"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2020-01-28T10:36:11.2755635+09:00",
+            "Name": "sudo",
+            "Version": "0.2020.01.26"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2020-02-13T16:34:21.8219616+09:00",
+            "Name": "sysinternals",
+            "Version": "December.18.2019"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-11-06T11:05:30.743545+09:00",
+            "Name": "terraform",
+            "Version": "1.3.4"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2022-10-29T11:09:37.3296015+09:00",
+            "Name": "tflint",
+            "Version": "0.42.2"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2022-11-06T11:05:45.504326+09:00",
+            "Name": "thunderbird",
+            "Version": "102.4.2"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2019-11-24T23:05:52.2322346+09:00",
+            "Name": "unzip",
+            "Version": "6.00"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2022-11-12T10:48:08.9467443+09:00",
+            "Name": "vscode",
+            "Version": "1.73.1"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2022-10-29T11:12:57.6840806+09:00",
+            "Name": "winmerge",
+            "Version": "2.16.24"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2022-10-16T09:47:36.9303356+09:00",
+            "Name": "winscp",
+            "Version": "5.21.5"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2019-11-24T23:12:01.2290689+09:00",
+            "Name": "wixtoolset",
+            "Version": "3.11.2"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2019-11-24T23:12:06.7432543+09:00",
+            "Name": "xmlstarlet",
+            "Version": "1.6.1"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Updated": "2019-11-24T23:12:11.7749542+09:00",
+            "Name": "zip",
+            "Version": "3.0"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Updated": "2022-11-12T10:48:17.441519+09:00",
+            "Name": "zoom",
+            "Version": "5.12.8.10232"
+        }
+    ]
+}
